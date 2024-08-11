@@ -29,6 +29,8 @@ To address this, an equal number of legitimate transactions were randomly sample
 
 # Screenshot of the Interface
 
+![Blank 2 Panel Landscape Comic Strip](https://github.com/user-attachments/assets/16ef5656-9f60-431c-b58b-04d55931548e)
+
 
 #  Installation
 To run this project locally, follow these steps:
