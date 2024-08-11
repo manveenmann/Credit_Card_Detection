@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Model
 
-# 1. Methodology
+# Methodology
 
 
 # Description
