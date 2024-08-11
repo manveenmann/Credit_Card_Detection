@@ -1,6 +1,8 @@
 # Credit Card Fraud Detection Model
 
 # Methodology
+![Capture](https://github.com/user-attachments/assets/1d367139-8cb3-46d5-8bee-0b7e2402ca99)
+
 
 
 # Description
