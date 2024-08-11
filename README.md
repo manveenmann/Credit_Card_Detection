@@ -17,9 +17,9 @@ To address this, an equal number of legitimate transactions were randomly sample
 
 **Model:** Logistic Regression with a maximum of 1000 iterations using the 'lbfgs' solver.
 
-**Training Accuracy:** [Insert training accuracy, e.g., 98%]
+**Training Accuracy:** 94.85%
 
-**Test Accuracy:** [Insert test accuracy, e.g., 95%]
+**Test Accuracy:** 93.90%
 
 # Input / Output
 
@@ -61,8 +61,9 @@ V1, V2, ..., V28: Principal components obtained using PCA (Principal Component A
 **Class:** The label indicating if a transaction is legitimate (0) or fraudulent (1).
 
 # Model Performance
-**Training Data Accuracy:** [Insert accuracy]
-**Test Data Accuracy:** [Insert accuracy]
+**Training Data Accuracy:** 94.85%
+
+**Test Data Accuracy:** 93.90%
 
 # Acknowledgments
 
